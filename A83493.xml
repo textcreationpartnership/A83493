@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several votes, orders &amp; ordinances of the Lords and Commons assembled in Parliament: for the setling of the peace of the Kingdom, and bringing to justice the late impeached members. Also debates for repealing of the ordinances of the militia formerly made. With the ordinance for election of a new Lord Major, aldermen, and common-councel-men in the City of London. H. Elsynge, Cler. Parl. D. Com. Together with a letter to an eminent friend in London, of His Majesties coming to VVindsor-Castle.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83493</idno><idno type="EEBO-CITATION">99864891</idno>
+  <idno type="VID">162525</idno>
+  <idno type="EEBO-PROQUEST">2240912045</idno>
+  
+            <idno type="STC">Wing E2305</idno>
+            <idno type="STC">Thomason E477_12</idno>
+            <idno type="STC">ESTC R205542</idno>
+            <idno type="PROQUEST">99864891</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864891e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162525)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several votes, orders &amp; ordinances of the Lords and Commons assembled in Parliament: for the setling of the peace of the Kingdom, and bringing to justice the late impeached members. Also debates for repealing of the ordinances of the militia formerly made. With the ordinance for election of a new Lord Major, aldermen, and common-councel-men in the City of London. H. Elsynge, Cler. Parl. D. Com. Together with a letter to an eminent friend in London, of His Majesties coming to VVindsor-Castle.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6+ p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: lacking all after p. 6.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="corporate_name">Committee for the Militia of London --  Early works to 1800.</term>
+               <term type="topical_term">Elections --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162525:1"/>
+            <p>SEVERALL VOTES, ORDERS &amp; ORDINANCES <hi>OF THE Lords</hi> and <hi>Commons</hi> assembled in Parliament: For the setling of the Peace of the King<g ref="char:EOLhyphen"/>dom, and bringing to JUSTICE the late Impeached MEMBERS.</p>
+            <p>Also Debates for repealing of the Ordinances of the MILITIA formerly made.</p>
+            <p>With the Ordinance for <hi>Election</hi> of a new Lord Major, Aldermen, and Common-Councel-men in the City of LONDON.</p>
+            <p>
+               <hi>H. Elsynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>
+               <hi>Together with a</hi> LETTER to an eminent Friend in London, of His Majesties coming to Windsor-Castle.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Smithurst,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162525:2"/>
+            <pb n="3" facs="tcp:162525:2"/>
+            <head>Several <hi>Votes, Orders,</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances,</hi> of the Lords and Commons assem<g ref="char:EOLhyphen"/>bled in <hi>Parliament</hi> for the setling the Peace of the Kingdom and the bringing to con<g ref="char:EOLhyphen"/>dign punishment the offenders thereof, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He House hereupon fell upon debate of the 11, Members, who were formerly put out of the House and passed these Votes, That the vote of that house of 3. <hi>January</hi> 1647. for revoking the Order of the 9th of <hi>Septemb.</hi> 1647. for disabling Commissary Lionell <hi>Copley</hi> to be a Member of the House, is of dangerous con<g ref="char:EOLhyphen"/>sequence, and tending to the destruction of the justice and peace of the Kingdom, and is hereby repealed.</p>
+            <p>The like vote that the receiving the o<g ref="char:EOLhyphen"/>ther 10. Members when a charge of so high
+<pb n="4" facs="tcp:162525:3"/> a nature lay against them, was un-parlia<g ref="char:EOLhyphen"/>mentory, and of dangerous consequence, and Voted null.</p>
+            <p>They likewise voted that the Vote of that house of the 30. of <hi>June</hi> 1648. whereby this house did concur with the Lords that for the opening a way to the Treaty with his Majesty for a safe and well grounded peace. That the votes of the 3. of <hi>Janua<g ref="char:EOLhyphen"/>ry</hi> 1647. forbiding all addresses to be made to or from the King be taken off was highly dishonorable to the proceedings of Parlia<g ref="char:EOLhyphen"/>ment, and apparently distructive to the good of the Kingdom.</p>
+            <p>Resolved, That the Lords and Commons do declare that they will make no further addresses or application to the King.</p>
+            <p>Resolved by the Lords and Commons assembled in Parlianent, that no applicati<g ref="char:EOLhyphen"/>on or addresse be made to the King by any person whatsoever without the leave of both houses.</p>
+            <pb n="5" facs="tcp:162525:3"/>
+            <p>Resolved by the Lords and Commons as<g ref="char:EOLhyphen"/>sembled in Parliament, That the person or persons that shall make breach of this order shall incurre the penalty of high Treason.</p>
+            <p>Resolved That the Lords and Commons do declare that they will receive no more a<g ref="char:EOLhyphen"/>ny Message from the King, and do enjoyn that no person whatsoever do presume to receive or bring any Message from the King to both or either of the houses of Parlia<g ref="char:EOLhyphen"/>ment or to any other person.</p>
+            <p>Resolved that the Vote for revocation of the said votes was highly dishonorable to the proceedings of Parliament and appa<g ref="char:EOLhyphen"/>rently destructive to the good of the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Resolved that the Vote of 28 of July 1648. That a Treaty be had in the Isle of Wight with the King in person by a Com<g ref="char:EOLhyphen"/>mittee appointed by both houses upon the Propositions presented to him at Hampton Court was highly dishonorable and appa<g ref="char:EOLhyphen"/>rently
+<pb n="6" facs="tcp:162525:4"/> distructive for the good of the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>The House then took into debate the Ordinance for setling the Militia of the whole Kingdom, and finding the Ordi<g ref="char:EOLhyphen"/>nance lately passed to be made upon design for distruction of this Army, and prejudici<g ref="char:EOLhyphen"/>all to the whole Kingdom, there being di<g ref="char:EOLhyphen"/>vers ill affected in severall Counties and some that ingaged in the last war intrusted therewith. They voted that the said Or<g ref="char:EOLhyphen"/>dinance should be forhwith repealed, and that a new Ordinance be brought in for setling the Militia of the Kingdom.</p>
+            <p>They likewise voted that an Ordinace should be brought in for the repealing the Ordinance for settling the Militia of the County of Lancaster.</p>
+            <div type="part">
+               <p>THe House this day according to former order had the Or<g ref="char:EOLhyphen"/>dinance for repealing the former</p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
